@@ -1,6 +1,6 @@
 ## Olá, meu nome é Daniele de Amorim Rosa :woman:
 
-:star: **Estudante de Análise e Desenvolvimento de Sistemas** pela *Universidade Estácio de Sá*. Conclusão prevista 06/2026.
+:star: **Estudante de Análise e Desenvolvimento de Sistemas** pela *Universidade Estácio de Sá*. Cursando o Terceiro período 01/2025.
 Meu foco é em desenvolvimento Back-end **Java**. Tenho uma carreira de mais de 10 anos no setor administrativo, onde aperfeiçoei habilidades essenciais, como comunicação, trabalho em equipe e gestão de processos. 
 
 Estou me dedicando a cursos e projetos complementares para aprimorar meus conhecimentos e expandir minhas competências técnicas na área tecnológica.
